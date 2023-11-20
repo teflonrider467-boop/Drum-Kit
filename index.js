@@ -1,3 +1,4 @@
+alert("JS linked");
 document.addEventListener("keypress", function(event) {
     var keypressed = event.key;
     makeSound(keypressed);
